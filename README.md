@@ -1,5 +1,3 @@
-AI is coming for us apparently. Anyway here's my github.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=180&section=header&text=Tyler%20Malone&fontSize=60&fontColor=e0e0e0&fontAlignY=38&desc=full-stack%20engineer%20%2F%20AI%20systems%20%2F%20whatever%20the%20job%20needs&descSize=16&descAlignY=58&descColor=7c8ea0" width="100%"/>
