@@ -59,10 +59,6 @@ Relocating to Japan. Open to remote roles or teams based there.
 
 ---
 
-## tooling
-
-Claude Code, Cursor, Codex — no Cursor isn't dead
-
 <div align="center">
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-C17B49?style=flat-square&logo=anthropic&logoColor=white)
