@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/tylermmprojects.com-0f3460?style=for-the-badge&logoColor=white)](https://www.tylermmprojects.com)
+[![Website](https://img.shields.io/badge/tmalone.dev-0f3460?style=for-the-badge&logoColor=white)](https://www.tylermmprojects.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tylermmalone)
 [![Email](https://img.shields.io/badge/tyler@contraptionsoft.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyler@contraptionsoft.com)
 [![USMC](https://img.shields.io/badge/U.S.%20Marine%20Corps%20'18–'22-8B0000?style=for-the-badge&logoColor=white)](https://www.marines.mil)
