@@ -15,7 +15,7 @@
 
 ---
 
-Full-stack engineer with a CS degree from CSU and a background that goes: Short-order cook → Marine Corps → school → shipping real software. I've spent the last year deep in AI platform work — backends, pipelines, real-time systems, infra, the whole thing. I'm comfortable owning a system end-to-end and equally comfortable dropping into an existing codebase and getting up to speed.
+Full-stack engineer with a CS degree from CSU. I've spent the last year deep in AI platform work. I'm comfortable building a system from scratch and equally comfortable dropping into an existing codebase.
 
 Most recently I've been building [WarTable](https://wartable.ai). I can't say much, but it's been a serious technical lift and I've learned a lot.
 
