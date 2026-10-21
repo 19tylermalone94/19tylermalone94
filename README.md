@@ -17,9 +17,7 @@
 
 Full-stack engineer with a CS degree from CSU. I've spent the last year deep in AI platform work. I'm comfortable building a system from scratch and equally comfortable dropping into an existing codebase.
 
-Most recently I've been building [WarTable](https://wartable.ai). I can't say much, but it's been a serious technical lift and I've learned a lot.
-
-Relocating to Japan. Open to remote roles or teams based there.
+Most recently I've been building [WarTable](https://wartable.ai). I can't say much, but it's been a serious technical lift and I've learned a ton.
 
 ---
 
