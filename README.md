@@ -96,10 +96,6 @@ Self-hosted on a Hetzner VPS: systemd services, Caddy, Twilio and Telegram gatew
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=19tylermalone94&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=c9d1d9&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19tylermalone94&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9&langs_count=6" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=19tylermalone94&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" />
+<img src="https://raw.githubusercontent.com/19tylermalone94/19tylermalone94/stats/stats.svg" width="100%" alt="Commits, languages, kind of code, commits per month with and without agents, coding hours and latest activity across all my repos, private included" />
 
 </div>
