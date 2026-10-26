@@ -40,13 +40,12 @@ Self-hosted on a Hetzner VPS: systemd services, Caddy, Twilio and Telegram gatew
 - **Colorado State, research assistant.** Built the bibliography check for RamDesk, CSU's grading platform. It has run 36K+ integrity checks. Also robotics at the HAPI Lab: an autonomous Fetch robot demo with my own YOLO component.
 - **U.S. Marine Corps, utilities engineer.** Planned and ran field power for a 200-person command element. Held the Operations Staff NCO billet as a Corporal.
 
-## public bits
+## live
 
-- [Pipedream](https://github.com/PipedreamHQ/pipedream/pull/19984): merged HighLevel contribution
-- [chunky-radar](https://github.com/19tylermalone94/chunky-radar): Dwarf Fortress-style live flight tracker, pixel map and CRT UI
-- [connect-4-online](https://github.com/19tylermalone94/connect-4-online): play Connect 4 against a neural network
-- [malonedigs.com](https://github.com/ContraptionSoft/malonedigs.com): Next.js site for a local excavation business
-- [euler-go](https://github.com/19tylermalone94/euler-go): Project Euler's first 100 in Go
+- [RamDesk](https://ramdesk.colostate.edu): CSU's grading platform. The "integrity checks" counter on the login page is the bibliography check I built (36K+ runs)
+- [Pipedream](https://github.com/PipedreamHQ/pipedream/pull/19984): merged open-source contribution to the integration platform behind WarTable's ~3,000 app connections
+- [malonedigs.com](https://malonedigs.com): Next.js site I built and run for a local excavation business
+- [chunky-radar](https://chunky-radar.vercel.app): Dwarf Fortress-style live flight tracker, pixel map and CRT UI ([code](https://github.com/19tylermalone94/chunky-radar))
 
 ---
 
