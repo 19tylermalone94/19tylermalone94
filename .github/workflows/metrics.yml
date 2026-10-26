@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 9 * * *" }]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          user: 19tylermalone94
+          config_timezone: America/Chicago
+          base: ""
+          # Languages from my own commits (indepth), not the repo-level language bar.
+          # Org access pulls in hundreds of TA classroom repos, so own repos + an explicit list.
+          repositories_affiliations: owner
+          repositories_forks: no
+          commits_authoring: 19tylermalone94, Tyler Malone, 19tylermalone94@gmail.com, tyler@contraptionsoft.com
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: >-
+            ContraptionSoft/crm, ContraptionSoft/meeting-context, ContraptionSoft/rustys-ai-cockpit,
+            ContraptionSoft/site-audit, ContraptionSoft/voice-agent-prompts, ContraptionSoft/malonedigs.com,
+            HyvvApp/hyvv-client, HyvvApp/hyvv-frontend, HyvvApp/hyvv-backend,
+            Project-Sustain/ramdesk, Project-Sustain/drones
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: lines, percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, scss, dockerfile, shell, makefile, jupyter notebook
+          plugin_languages_analysis_timeout: 30
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
