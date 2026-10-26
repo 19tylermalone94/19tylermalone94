@@ -42,7 +42,7 @@ Self-hosted on a Hetzner VPS: systemd services, Caddy, Twilio and Telegram gatew
 
 ## live
 
-- [RamDesk](https://ramdesk.colostate.edu): CSU's grading platform. The "integrity checks" counter on the login page is the bibliography check I built (36K+ runs)
+- [RamDesk](https://ramdesk.colostate.edu): CSU's grading platform. I built its bibliography checker, which searches the web to verify citations. It runs as part of the Integrity Check system, currently at 36,000+ runs.
 - [Pipedream](https://github.com/PipedreamHQ/pipedream/pull/19984): merged open-source contribution to the integration platform behind WarTable's ~3,000 app connections
 - [malonedigs.com](https://malonedigs.com): Next.js site I built and run for a local excavation business
 - [chunky-radar](https://chunky-radar.vercel.app): Dwarf Fortress-style live flight tracker, pixel map and CRT UI ([code](https://github.com/19tylermalone94/chunky-radar))
