@@ -1,0 +1,19 @@
+name: Stats watchdog
+# Fails (and GitHub emails me) if the self-hosted stats card hasn't refreshed in 3 hours.
+on:
+  schedule: [{ cron: "17 */6 * * *" }]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check stats branch age
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          last=$(gh api repos/${{ github.repository }}/commits/stats --jq .commit.committer.date)
+          age=$(( $(date +%s) - $(date -d "$last" +%s) ))
+          echo "stats.svg last updated $last ($((age / 60)) min ago)"
+          [ "$age" -lt 10800 ]
