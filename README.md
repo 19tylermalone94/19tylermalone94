@@ -23,7 +23,7 @@ Full-stack and AI engineer who builds agent systems that run in production. I wa
 
 ## what I'm building now
 
-At [ContraptionSoft](https://contraptionsoft.com), my veteran-owned automation shop:
+At [ContraptionSoft](https://contraptionsoft.com), my automation shop:
 
 - **Order pipeline for a CNC machine shop.** Purchase-order entry went from about 20 minutes by hand to under 2. PDF parsing, Zoho Books over MCP, generated traveler documents. Every write to the client's books goes through human approval and an audit log.
 - **Inbox triage agent.** A bigger model designed the email buckets from real mail, then a cheap classifier sorted 3,200+ threads for about $0.29. 70% archived, with a guard that keeps low-confidence mail in the inbox.
